@@ -4,7 +4,7 @@
 # Environment Variables Needed
 * Create `.env` file in the root directory of the project
 * Create the following .env variables:
-  * VITE_URL=""
+  * VITE_URL="https://ecomm-x7ak.onrender.com/"
 
 # Frontend
 * `npm run dev`: This will start the frontend React Application on `http://localhost:5173/`, but check your terminal after running the command to verify.
