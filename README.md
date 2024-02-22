@@ -8,7 +8,8 @@
 
 # Frontend
 * `npm run dev`: This will start the frontend React Application on `http://localhost:5173/`, but check your terminal after running the command to verify.
-* Follow the link to the deployed application via Netlify: https://stalwart-pothos-1e928a.netlify.app/ (deployed repo is forked, so edits made to this repo may not be updated)
+* Follow the link to the deployed application via Netlify: https://stalwart-pothos-1e928a.netlify.app/
+* (the deployed reposity is forked under mrkrye, so edits made to this repository may not see update as it is not linked directly)
 
 
 # Backend
